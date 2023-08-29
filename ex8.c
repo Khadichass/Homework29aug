@@ -17,11 +17,11 @@ void multiplication_1()
   scanf("%d", &b);
 
   
-  printf("The sum is %d\n", multiplication(a,b));
+  printf("The multiplication is %d\n", multiplication(a,b));
 }
 
 int main()
 {
-    multiplication_1();
-    return 0;
+  multiplication_1();
+  return 0;
 }

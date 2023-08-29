@@ -22,6 +22,6 @@ void sum_1()
 
 int main()
 {
-    sum_1();
-    return 0;
+  sum_1();
+  return 0;
 }

@@ -17,11 +17,11 @@ void subtraction_1()
   scanf("%d", &b);
 
   
-  printf("The sum is %d\n", subtraction(a,b));
+  printf("The subtraction is %d\n", subtraction(a,b));
 }
 
 int main()
 {
-    subtraction_1();
-    return 0;
+  subtraction_1();
+  return 0;
 }
