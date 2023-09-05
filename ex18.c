@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int time(int totalS, int *hour, int *minute, int *sec)
+void time(int totalS, int *hour, int *minute, int *sec)
 {
   *hour = totalS / 3600;
   totalS %= 3600;
